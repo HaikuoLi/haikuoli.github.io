@@ -28,10 +28,12 @@ After interviewed by several top graduate schools in the United States including
 
 <strong>Other Academic Activities</strong><br>
 2/2019-6/2019:	Teaching Assistant, College Genetics Course, Shanghai Jiao Tong University<br>
-5/2018:	Speaker, National Biology Education Conference of Chinese Ministry of Education, Guangdong<br>
+2/2019:	Speaker, 2nd College Academic Festival, Shanghai<br>
 2/2018-6/2018:	Teaching Assistant, College Macrobiology Course, Shanghai Jiao Tong University<br>
+5/2018:	Speaker, National Biology Education Conference of Chinese Ministry of Education, Guangdong<br>
 6/2017-3/2018:	Presidium, Students’ Union of Zhiyuan Honors Program, Shanghai Jiao Tong University<br>
 9/2017-1/2018:	Teaching Assistant, College Biochemistry Course, Shanghai Jiao Tong University
+12/2017:	Speaker, 1st College Academic Festival, Shanghai
 <br><br>
 
 
