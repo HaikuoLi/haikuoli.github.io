@@ -37,7 +37,7 @@ After interviewed by several top graduate schools in the United States including
 
 <strong>My Hobby</strong><br>
 I loved basketball in my childhood due to the influence of Yao Ming, the most successful Chinese player in NBA, and played in the basketball team of my high school for a short period. Now I am a soccer fan of Shandong Luneng FC.<br>
-I loved cooking, swimming (slowly!), and watching Naruto anime in my spare time.<br><br>
+I loved reading and writing Chinese prose/poetry, cooking, and watching Naruto anime in my spare time.<br><br>
 
 <br><i>PS: The formatting of this website is forked from <a href="https://github.com/pesoto/pesoto.github.io" target="_self">https://github.com/pesoto/pesoto.github.io</a></i>
 <br></p>
