@@ -13,25 +13,25 @@ After interviewed by several top graduate schools in the United States including
 
 
 <strong>Academic Honors</strong><br>
-2019	2019 Excellent Bachelor Thesis (Top 0.2%) of Shanghai Jiao Tong University<br>
-2019	2019 Excellent Graduate in Bachelor Degree, Shanghai<br>
-2019	The Best Design Prize, 2nd Zhiyuan Academic Festival, Shanghai<br>
-2016, 2017, 2018	Academic Excellence Scholarship (First-class), Shanghai Jiao Tong University<br>
-2018	No.1 Student Presentation, National Biology Education Conference of Chinese Ministry of Education, Guangdong<br>
-2017	The Best Talent Prize, 1st College Academic Festival, Shanghai<br>
-2015	Enrolled in Bioscience Honors Program of Shanghai Jiao Tong University<br>
-2015	Top 0.1% in Chinese University Entrance Examination<br>
-2014	Bronze medal, Chinese Mathematical Olympiad (CMO), Chongqing<br>
-2014	Enrolled in the Province’s Mathematical Team
+2019:	2019 Excellent Bachelor Thesis (Top 0.2%) of Shanghai Jiao Tong University<br>
+2019:	2019 Excellent Graduate in Bachelor Degree, Shanghai<br>
+2019:	The Best Design Prize, 2nd Zhiyuan Academic Festival, Shanghai<br>
+2016, 2017, 2018:	Academic Excellence Scholarship (First-class), Shanghai Jiao Tong University<br>
+2018:	No.1 Student Presentation, National Biology Education Conference of Chinese Ministry of Education, Guangdong<br>
+2017:	The Best Talent Prize, 1st College Academic Festival, Shanghai<br>
+2015:	Enrolled in Bioscience Honors Program of Shanghai Jiao Tong University<br>
+2015:	Top 0.1% in Chinese University Entrance Examination<br>
+2014:	Bronze medal, Chinese Mathematical Olympiad (CMO), Chongqing<br>
+2014:	Enrolled in the Province’s Mathematical Team
 <br><br>
 
 
 <strong>Other Academic Activities</strong><br>
-2/2019-6/2019	Teaching Assistant, College Genetics Course, Shanghai Jiao Tong University<br>
-5/2018	Speaker, National Biology Education Conference of Chinese Ministry of Education, Guangdong<br>
-2/2018-6/2018	Teaching Assistant, College Macrobiology Course, Shanghai Jiao Tong University<br>
-6/2017-3/2018	Presidium, Students’ Union of Zhiyuan Honors Program, Shanghai Jiao Tong University<br>
-9/2017-1/2018	Teaching Assistant, College Biochemistry Course, Shanghai Jiao Tong University
+2/2019-6/2019:	Teaching Assistant, College Genetics Course, Shanghai Jiao Tong University<br>
+5/2018:	Speaker, National Biology Education Conference of Chinese Ministry of Education, Guangdong<br>
+2/2018-6/2018:	Teaching Assistant, College Macrobiology Course, Shanghai Jiao Tong University<br>
+6/2017-3/2018:	Presidium, Students’ Union of Zhiyuan Honors Program, Shanghai Jiao Tong University<br>
+9/2017-1/2018:	Teaching Assistant, College Biochemistry Course, Shanghai Jiao Tong University
 <br><br>
 
 
