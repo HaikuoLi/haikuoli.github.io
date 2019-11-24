@@ -26,7 +26,7 @@ After interviewed by several top graduate schools in the United States including
 <br><br>
 
 
-<strong>Other Academic Activities</strong><br>
+<strong>Other Activities</strong><br>
 2/2019-6/2019:	Teaching Assistant, College Genetics Course, Shanghai Jiao Tong University<br>
 2/2019:	Speaker, 2nd College Academic Festival, Shanghai<br>
 2/2018-6/2018:	Teaching Assistant, College Macrobiology Course, Shanghai Jiao Tong University<br>
