@@ -48,7 +48,7 @@ After interviewed by several top Ph.D. programs in the United States including W
 
 
 <strong>News</strong><br>
-1. Undergraduate Stories at Shanghai Jiao Tong University | Haikuo Li; 7/2019; Read more <a href="https://mp.weixin.qq.com/s/WK74i9U48gaV4xROFDVFhQ">here</a>.
+1. Undergraduate Stories at Shanghai Jiao Tong University | Haikuo Li; 7/2019; Read more <a href="https://mp.weixin.qq.com/s/WK74i9U48gaV4xROFDVFhQ">here</a>.<br>
 2. Introductions of 2019 SJTU Top Bachelor Thesis Winners; 7/2019; Read more <a href="http://sjcg.jwc.sjtu.edu.cn/363/3/3/news.html">here</a>.
 <br><br>
 
