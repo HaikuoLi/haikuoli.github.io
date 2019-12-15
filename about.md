@@ -48,7 +48,7 @@ After interviewed by several top graduate schools in the United States including
 
 
 <strong>News</strong><br>
-1. Undergraduate Stories at Shanghai Jiao Tong University | Haikuo Li; 7/2019; See <a href="https://mp.weixin.qq.com/s/WK74i9U48gaV4xROFDVFhQ">here</a>.<br>
+1. Undergraduate Stories at Shanghai Jiao Tong University | Haikuo Li; 7/2019; Read more <a href="https://mp.weixin.qq.com/s/WK74i9U48gaV4xROFDVFhQ">here</a>.
 <br><br>
 
 
