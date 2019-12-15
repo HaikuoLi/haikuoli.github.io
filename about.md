@@ -56,5 +56,5 @@ After interviewed by several top Ph.D. programs in the United States including W
 I love reading and writing Chinese prose/poetry and cooking in my spare time. I love basketball and I am a soccer fan of Shandong Luneng FC.
 <br><br>
 
-<br><i>Website Acknowledgement: the format is forked from <a href="https://github.com/pesoto/pesoto.github.io" target="_self">https://github.com/pesoto/pesoto.github.io.</a></i>
+<i>Website Acknowledgement: the format is forked from <a href="https://github.com/pesoto/pesoto.github.io" target="_self">https://github.com/pesoto/pesoto.github.io.</a></i>
 <br></p>
