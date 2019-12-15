@@ -11,7 +11,7 @@ Email:<br>
 haikuo.li@wustl.edu; lihaikuo@sjtu.edu.cn<br>
 Address:<br>
 Campus Box 8226, Washington University School of Medicine, Saint Louis, MO<br>
-Wechat/QQ:<br>
+Wechat/QQ:
 410650989<br>
 <br>
 
@@ -44,6 +44,11 @@ After interviewed by several top graduate schools in the United States including
 6/2017-3/2018:	Presidium, Students’ Union of Zhiyuan Honors Program, SJTU<br>
 9/2017-1/2018:	Teaching Assistant, College Biochemistry Course, SJTU<br>
 12/2017:	Speaker, 1st College Academic Festival, Shanghai
+<br><br>
+
+
+<strong>News</strong><br>
+1. Undergraduate Stories at Shanghai Jiao Tong University | Haikuo Li; 7/2019; See <a href="https://mp.weixin.qq.com/s/WK74i9U48gaV4xROFDVFhQ">here</a>.<br>
 <br><br>
 
 
