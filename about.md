@@ -48,8 +48,8 @@ After interviewed by several top graduate schools in the United States including
 
 
 <strong>My Hobby</strong><br>
-I love basketball and I am a soccer fan of Shandong Luneng FC.<br>
-I love reading and writing Chinese prose/poetry and cooking in my spare time.<br><br>
+I love reading and writing Chinese prose/poetry and cooking in my spare time. I love basketball and I am a soccer fan of Shandong Luneng FC.
+<br><br>
 
 <br><i>PS: The formatting of this website is forked from <a href="https://github.com/pesoto/pesoto.github.io" target="_self">https://github.com/pesoto/pesoto.github.io</a></i>
 <br></p>
