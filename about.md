@@ -8,7 +8,7 @@ permalink: /about/
   
 <strong>Contact Information</strong><br>
 Email:<br>
-haikuo.li@wustl.edu; lihaikuo@sjtu.alumni.edu<br>
+haikuo.li@wustl.edu; lihaikuo@sjtu.edu.cn<br>
 Address:<br>
 Campus Box 8226, Washington University School of Medicine, Saint Louis, MO<br>
 Wechat/QQ:<br>
