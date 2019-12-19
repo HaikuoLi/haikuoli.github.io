@@ -54,7 +54,7 @@ After interviewed by several top Ph.D. programs in the United States including W
 
 
 <strong>My Hobby</strong><br>
-I love reading and writing Chinese prose/poetry and cooking in my spare time. WeChat Official Account: Haikuo_Sky1997(北乔木).<br>
+I love reading and writing Chinese prose/poetry and cooking in my spare time. WeChat Official Account/Blog: Haikuo_Sky1997 (北乔木).<br>
 I love basketball and I am a soccer fan of Shandong Luneng FC.
 <br><br>
 
