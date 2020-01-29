@@ -8,7 +8,7 @@ permalink: /about/
   
 <strong>Contact Information</strong><br>
 Email:<br>
-haikuo.li@wustl.edu; lihaikuo@sjtu.edu.cn<br>
+haikuo.li@wustl.edu; lihaikuo@alumni.sjtu.edu.cn<br>
 Address:<br>
 Campus Box 8226, Washington University School of Medicine, Saint Louis, MO<br>
 WeChat/QQ:
@@ -27,7 +27,7 @@ After interviewed by several top Ph.D. programs in the United States including W
 2019:	2019 Excellent Graduate in Bachelor Degree, Shanghai<br>
 2019:	The Best Design Prize, 2nd Zhiyuan Academic Festival, Shanghai<br>
 2016/2017/2018:	Academic Excellence Scholarship (First-class), SJTU<br>
-2018:	No.1 Student Presentation, National Biology Education Conference of Chinese Ministry of Education, Guangdong<br>
+2018:	Top1 Student Presentation, National Biology Education Conference of Chinese Ministry of Education, Guangdong<br>
 2017:	The Best Talent Prize, 1st College Academic Festival, Shanghai<br>
 2015:	Enrolled in Bioscience Honors Program of SJTU<br>
 2015:	Top 0.1% in Chinese University Entrance Examination<br>
