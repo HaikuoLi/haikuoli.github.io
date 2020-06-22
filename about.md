@@ -23,9 +23,9 @@ After interviewed by several top Ph.D. programs in the United States including W
 
 
 <strong>Academic Honors</strong><br>
-2019:	2019 Top 0.2% Bachelor Thesis of SJTU<br>
-2019:	2019 Excellent Graduate in Bachelor Degree, Shanghai<br>
-2018:	Top1 Student Presentation, National Biology Education Conference of Chinese Ministry of Education, Guangdong<br>
+2019:	2019 Top 0.2% Bachelor Thesis of SJTU: #1 in Bioscience<br>
+2019:	2019 Outstanding Graduate in Bachelor Degree, Shanghai<br>
+2018:	#1 Student Presentation, National Biology Education Conference of Chinese Ministry of Education, Guangdong<br>
 2016/2017/2018:	Academic Excellence Scholarship (First-class), SJTU<br>
 2015:	Top 0.1% in Chinese University Entrance Examination<br>
 2014:	Bronze medal, Chinese Mathematical Olympiad (CMO), Chongqing<br>
