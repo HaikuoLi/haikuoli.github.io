@@ -44,11 +44,6 @@ After interviewed by several top Ph.D. programs in the United States including W
 <br><br>
 
 
-<strong>News</strong><br>
-1. <a href="https://zhiyuan.sjtu.edu.cn/CommonFiles/2019zyCollegeJournal.pdf">Students listed in Journal of Zhiyuan College Page 14/40</a>; 1/2020.<br>
-2. <a href="https://mp.weixin.qq.com/s/WK74i9U48gaV4xROFDVFhQ">Undergraduate Stories at Shanghai Jiao Tong University | Haikuo Li</a>; 7/2019.<br>
-3. <a href="http://sjcg.jwc.sjtu.edu.cn/363/3/3/news.html">Introductions to 2019 SJTU Top Bachelor Thesis Winners</a>; 7/2019.
-<br><br>
 
 
 <strong>My Hobby</strong><br>
