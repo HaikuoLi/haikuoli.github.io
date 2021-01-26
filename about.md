@@ -33,6 +33,7 @@ After interviewed by several top Ph.D. programs in the United States including W
 
 
 <strong>Academic Activities</strong><br>
+1/2021-5/2021:	Teaching Assistant, Genomics Bio5488, WashU<br>
 2/2019-6/2019:	Teaching Assistant, College Genetics Course, SJTU<br>
 2/2018-6/2018:	Teaching Assistant, College Macrobiology Course, SJTU<br>
 6/2017-3/2018:	Presidium, Students’ Union of Zhiyuan Honors Program, SJTU<br>
