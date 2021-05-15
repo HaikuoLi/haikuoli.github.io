@@ -50,3 +50,5 @@ social:
     url: https://www.linkedin.com/in/haikuoli/
     desc: Connect with me on LinkedIn
     share: true
+
+theme: jekyll-theme-slate
