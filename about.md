@@ -17,8 +17,8 @@ WeChat/QQ:
 
 
 <strong>My Background</strong><br>
-My name is Haikuo Li (李海廓). I was born in Linyi, Shandong Province, China in 1997 and lived there before my undergraduate life. In high shcool, I was most interested in mathematics and won the Bronze Medal in the Chinese Mathematics Olympics in 2014.<br>
-At that point, driven by the enthusiasm and curiosity about life science from deep in my heart, I chose Shanghai Jiao Tong University (SJTU) for my undergraduate study, which allowed me to enter their Honors Program in Bioscience (Top 0.1% in 2015 Chinese University Entrance Examination: 681 points). I was mainly trained in systems biology, immunology, and evolutionary biology in my undergraduate. I also served as the Presidium of Students Union of my college for one year. I was awarded Shanghai Excellent Graduate in Bachelor Degree in 2019.<br>
+My name is Haikuo Li (李海廓). I was born in Linyi (hometown of Zhuge Liang and Wang Xizhi), Shandong Province, China in 1997 and lived there before my undergraduate life. In high shcool, I was most interested in mathematics and won the Silver Medal in the Chinese Mathematics Olympics in 2014 (Top 0.1%).<br>
+At that point, I learned that biology had entered a big data era and required multidisciplinary approaches such as mathematical modelling and statistics to solve cutting-edge genomic problems. I asked myself: why not to use my mathematical skills to discern the beauty of life science? Therefore, I chose Shanghai Jiao Tong University (SJTU) for my undergraduate study, which allowed me to enter their Honors Program in Bioscience (Top 0.1% in 2015 Chinese University Entrance Examination: 681 points). I was mainly trained in systems biology, immunology, and evolutionary biology in my undergraduate. I also served as the Presidium of Students Union of my college for one year. I was awarded Shanghai Excellent Graduate in Bachelor Degree in 2019.<br>
 After interviewed by several top Ph.D. programs in the United States including WashU, Harvard, and Yale, I started my graduate study at WashU since 2019.<br><br>
 
 
@@ -28,7 +28,7 @@ After interviewed by several top Ph.D. programs in the United States including W
 2018:	Rank #1 Student Presentation, National Biology Education Conference of Chinese Ministry of Education, Guangdong<br>
 2016/2017/2018:	Academic Excellence Scholarship (First-class), SJTU<br>
 2015:	Top 0.1% in Chinese University Entrance Examination<br>
-2014:	Bronze medal, Chinese Mathematical Olympiad (CMO), Chongqing<br>
+2014:	Silver medal, Chinese Mathematical Olympiad (CMO), Chongqing<br>
 <br><br>
 
 
