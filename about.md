@@ -15,8 +15,6 @@ WeChat/QQ:
 410650989<br>
 <br>
 
-<img src="https://haikuoli.github.io/Retreat6.jpg" alt="Haikuo Li pic" style="width:400px;height:300px;">
-
 <strong>My Background</strong><br>
   My name is Haikuo Li (李海廓). I was born in Linyi (hometown of Zhuge Liang and Wang Xizhi), Shandong Province, China in 1997 and lived there before my undergraduate life.<br><br>
   
