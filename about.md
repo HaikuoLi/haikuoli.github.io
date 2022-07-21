@@ -26,6 +26,7 @@ WeChat/QQ:
   Since joining the Humphreys Lab in 2020, I have developed deep expertise in both wet-lab (single-cell library generation, technology development, mouse surgery, tissue culture, microscope imaging etc.) and dry-lab skills (single-cell data preprocessing, analysis, visualization and computational modelling), and have completed several first author review or commentary articles on single-cell technology development and applications. My thesis projects aim to decipher cellular events that drive kidney fibrosis with high-throughput single-cell multiomics approaches. We specifically selected single-cell combinatorial indexing (sci) as the platform, leveraging its unique advantage in ultra-high throughput, sample multiplexing capacity and low costs, compared to the current popular 10X Genomics solution. The ultimate goal is to identify potential therapeutic targets that can be used to ameliorate kidney fibrosis.<br>
 <br><br>
 
+<img src="files/scheme.png" alt="Image description">
 
 <strong>Academic Honors</strong><br>
 2019:	2019 Top 0.2% Bachelor Thesis of SJTU: Rank #1 in Bioscience<br>
