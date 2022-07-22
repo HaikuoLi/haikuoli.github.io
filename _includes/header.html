@@ -1,17 +1,21 @@
-<header class="navigation" role="banner">
-  <div class="navigation-wrapper">
-    <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">
-      <i class="fa fa-bars"></i>
-    </a>
-    <nav role="navigation">
-      <ul id="js-navigation-menu" class="navigation-menu show">
-      <li class="nav-link"><a href="{{ site.baseurl }}/" class="logo"><strong>Home</strong></a>
-      <li class="nav-link"><a href="https://haikuoli.github.io/graduate"><strong>Graduate</strong></a>
-      <li class="nav-link"><a href="https://haikuoli.github.io/undergraduate"><strong>Undergraduate</strong></a>
-      <a href="https://haikuoli.github.io/files/HaikuoLi-CV-20220719.pdf"><strong>CV</strong></a>
-      <li class="nav-link"><a href="https://haikuoli.github.io/about"><strong>About Me</strong></a>
-
-      </ul>
-    </nav>
-  </div>
-</header>
+<ul class="nav nav-pills">
+  <li class="nav-item">
+    <a class="nav-link active" href="{{ site.baseurl }}/"><strong>Home</strong></a>
+  </li>
+  <li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Dropdown</a>
+    <div class="dropdown-menu">
+      <a class="dropdown-item" href="#">Action</a>
+      <a class="dropdown-item" href="#">Another action</a>
+      <a class="dropdown-item" href="#">Something else here</a>
+      <div class="dropdown-divider"></div>
+      <a class="dropdown-item" href="#">Separated link</a>
+    </div>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="https://haikuoli.github.io/graduate"><strong>Graduate</strong></a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link disabled" href="https://haikuoli.github.io/about"><strong>About Me</strong></a>
+  </li>
+</ul>
