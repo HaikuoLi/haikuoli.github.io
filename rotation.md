@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rotations
+title: Rotation Projects at WashU
 permalink: /rotation/
 ---
 
