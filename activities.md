@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Activities
+title: Other Research Activities
 permalink: /activities/
 ---
 
