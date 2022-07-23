@@ -13,7 +13,7 @@ Moreover, I spent my fourth year as a visiting student at Yale University Depart
   
 
 ---
-
+<br>
   
 <strong>Clinical Proteomics Analysis using Data Independent Acquisition-Mass Spectrometry Identified Classifiers for Molecular Characterization of Lymphoma</strong><br>
 Undergraduate Research Fellow, <a href="https://www.linkedin.com/in/wei-yan-5794922/">Yan Lab</a>, Shanghai Center for Systems Biomedicine, Shanghai Jiao Tong University, 9/2016-7/2018<br><br>
@@ -30,7 +30,7 @@ Development of molecular classifiers of lymphoma will provide potential biomarke
 
 <br><br>
 ---
-
+<br>
 
 <strong>Immunotherapy by Decoy-Resistant Interleukin-18 (DR-18)</strong><br>
 Visiting Undergraduate, <a href="https://medicine.yale.edu/bbs/profile/aaron_ring/">Ring Lab</a>, Department of Immunobiology, Yale University School of Medicine, 7/2018-4/2019<br><br>
@@ -54,7 +54,7 @@ Here, we proposed two assays, pro-peptide assay and pH-sensitive assay: the form
 
 <br><br>
 ---
-
+<br>
   
   <strong>Detecting Positively Selected Genes among Mammalian Species Using Phylogenetic Analysis of Maximum Likelihood</strong><br>
 Study Tour, <a href="http://longlab.uchicago.edu/">Long Lab</a>, Department of Ecology and Evolution, The University of Chicago, 6/2017-8/2017<br><br>
