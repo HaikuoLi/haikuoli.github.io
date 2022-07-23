@@ -12,7 +12,8 @@ I got my Bachelor of Science Degree at Shanghai Jiao Tong University (Bioscience
 Moreover, I spent my fourth year as a visiting student at Yale University Department of Immunobiology modulating the immunotherapeutic efficacy of Interleukin-18 by protein engineering.<br><br>
   
 
----
+<p align="center">______________________________
+</p>
 <br>
   
 <strong>Clinical Proteomics Analysis using Data Independent Acquisition-Mass Spectrometry Identified Classifiers for Molecular Characterization of Lymphoma</strong><br>
@@ -32,7 +33,8 @@ Development of molecular classifiers of lymphoma will provide potential biomarke
 <i>Others:</i> This work was presented in <a href="https://hupo.org/resources/Documents/Congress/2018/Book%20of%20Abstracts_HUPO%202018.pdf">posters</a> in the 17th Human Proteome Organization World Congress (Orlando, 9/2018).
 
 <br><br>
-------
+<p align="center">______________________________
+</p>
 <br><br>
 
 <strong>Immunotherapy by Decoy-Resistant Interleukin-18 (DR-18)</strong><br>
@@ -58,7 +60,8 @@ Here, we proposed two assays, pro-peptide assay and pH-sensitive assay: the form
 <i>Others:</i> This thesis work was awarded 2019 Top 0.2% Bachelor Thesis of Shanghai Jiao Tong University. See video of the defense talk <a href="http://sjcg.jwc.sjtu.edu.cn/363/3/3/Video.html">here</a>. It was also presented in <a href="https://haikuoli.github.io/files/Academic_Festival2019-Haikuo-IL18.pdf">posters</a> in the 2nd College Academic Festival (Shanghai, 2/2019) and awarded the Best Design Prize.
 
 <br><br>
-------
+<p align="center">______________________________
+</p>
 <br><br>
   
   <strong>Detecting Positively Selected Genes among Mammalian Species Using Phylogenetic Analysis of Maximum Likelihood</strong><br>
