@@ -52,7 +52,7 @@ WeChat/QQ:
 <strong>My Hobby</strong><br>
 I love reading and writing Chinese prose/poetry in my spare time. WeChat Official Account/Blog: Haikuo_Sky1997 (北乔木).<br>
 I enjoy cooking and I am a soccer fan of Shandong Luneng FC.
-<br><br>
+<br><br><br>
   
 <strong>Gallery</strong><br>
 <p align="center">
