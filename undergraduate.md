@@ -24,8 +24,11 @@ Development of molecular classifiers of lymphoma will provide potential biomarke
 <i>Key Words:</i> Lymphoma; Clinical Proteomics; Omics; Biomarker<br>
     
 <p align="center">
-  <img width="500" src="https://haikuoli.github.io/files/undergraduate/massspec.png"><br>
+  <img width="500" src="https://haikuoli.github.io/files/undergraduate/massspec.png"
+       style="width:500px; height:auto"><br>
 </p>
+
+
 <i>Others:</i> This work was presented in <a href="https://hupo.org/resources/Documents/Congress/2018/Book%20of%20Abstracts_HUPO%202018.pdf">posters</a> in the 17th Human Proteome Organization World Congress (Orlando, 9/2018).
 
 <br><br>
@@ -49,8 +52,8 @@ Visiting Undergraduate, <a href="https://medicine.yale.edu/bbs/profile/aaron_rin
 Here, we proposed two assays, pro-peptide assay and pH-sensitive assay: the former assay leveraged the unique property of IL-18 that processing of its precursor peptide is required for its maturation. The latter assay harnessed the extracellular acidity of tumor and aimed to construct a low-pH favorable variant. Both assays were developed and evaluated in vitro, ex vivo, and in vivo.<br><br>
 <i>Key Words:</i> Interleukin-18; Precursor Peptide; pH sensitivity; Immunotherapy<br>
 <p align="center">
-  <img width="200" src="https://haikuoli.github.io/files/undergraduate/il18.png"
-       style="width:200px; height:auto"><br>
+  <img width="250" src="https://haikuoli.github.io/files/undergraduate/il18.png"
+       style="width:250px; height:auto"><br>
 </p>
 <i>Others:</i> This thesis work was awarded 2019 Top 0.2% Bachelor Thesis of Shanghai Jiao Tong University. See video of the defense talk <a href="http://sjcg.jwc.sjtu.edu.cn/363/3/3/Video.html">here</a>. It was also presented in <a href="https://haikuoli.github.io/files/Academic_Festival2019-Haikuo-IL18.pdf">posters</a> in the 2nd College Academic Festival (Shanghai, 2/2019) and awarded the Best Design Prize.
 
@@ -65,7 +68,8 @@ Study Tour, <a href="http://longlab.uchicago.edu/">Long Lab</a>, Department of E
 The birth of new novel genes plays an essential role in understanding and elaborating the evolution of genetic systems. Here, we used phylogenetic analysis to discover positively selected genes among mammalian species.<br><br>
 <i>Key Words:</i> Evolution; Polygenetic analysis <br>
 <p align="center">
-  <img width="300" src="https://haikuoli.github.io/files/undergraduate/evolution.png"><br>
+  <img width="350" src="https://haikuoli.github.io/files/undergraduate/evolution.png"
+       style="width:350px; height:auto"><br>
 </p>
 <i>Others:</i> This work was presented in <a href="https://zhiyuan.sjtu.edu.cn/file/common/20171222165857_2015%E7%BA%A7%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E6%9D%8E%E6%B5%B7%E5%BB%93%EF%BC%88%E5%B1%95%E6%9D%BF%E7%BC%96%E5%8F%B73-1%EF%BC%89.pdf">posters</a> in the 1st College Academic Festival (Shanghai, 12/2017) and awarded the Best Talent Prize.<br>
 <br>
