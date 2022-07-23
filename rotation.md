@@ -20,7 +20,8 @@ Rotation at <a href="http://dbbs.wustl.edu/faculty/Pages/faculty_bio.aspx?SID=67
   (B) I also participated another project on functional validations of potential Epithelial–Mesenchymal Transition (EMT)-driving transcriptional factors of HNSCC.
 <br>
 <p align="center">
-  <img width="750" src="https://citeseq.files.wordpress.com/2018/02/cell_hashing.png?w=700"><br><br>
+  <img width="600" src="https://citeseq.files.wordpress.com/2018/02/cell_hashing.png?w=700"
+       style="width:600px; height:auto"><br><br>
 </p>
 
 <strong>Studying transcriptomic variations in kidney diseases</strong><br>
