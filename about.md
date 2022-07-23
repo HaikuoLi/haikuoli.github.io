@@ -63,7 +63,7 @@ I enjoy cooking and I am a soccer fan of Shandong Luneng FC.
 <p align="center">
   <img width="400" src="https://haikuoli.github.io/files/gallery/yale201819.jpg"
        style="width:400px; height:auto">
-<p align="center">I spent almost a year at Yale (2018-2019)<br><br>
+<p align="center">Phelps Gate, Yale University (2018/2019)<br><br>
   
 <p align="center">
   <img width="400" src="https://haikuoli.github.io/files/gallery/yale_erp2018.jpg"
