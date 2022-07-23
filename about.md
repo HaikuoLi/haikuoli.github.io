@@ -76,9 +76,9 @@ I enjoy cooking and I am a soccer fan of Shandong Luneng FC.
 <p align="center">East Gate, Shanghai Jiao Tong University (2019)<br><br>
   
 <p align="center">
-  <img width="400" src="https://haikuoli.github.io/files/gallery/shanghai2019.jpg"
+  <img width="400" src="https://haikuoli.github.io/files/gallery/shanghaizoo2019.jpg"
        style="width:400px; height:auto">
-<p align="center">Huangpu River, Shanghai (2019)<br><br>
+<p align="center">Shanghai Wild Animal Park (2019)<br><br>
   
 <p align="center">
   <img width="400" src="https://haikuoli.github.io/files/gallery/stl2019.jpg"
