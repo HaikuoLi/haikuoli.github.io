@@ -61,8 +61,8 @@ I enjoy cooking and I am a soccer fan of Shandong Luneng FC.
 <p align="center">Downtown Chicago (2017)<br><br>
   
 <p align="center">
-  <img width="300" src="https://haikuoli.github.io/files/gallery/yale201819.jpg"
-       style="width:300px; height:auto">
+  <img width="400" src="https://haikuoli.github.io/files/gallery/yale201819.jpg"
+       style="width:400px; height:auto">
 <p align="center">I spent almost a year at Yale (2018-2019)<br><br>
   
 <p align="center">
