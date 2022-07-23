@@ -49,7 +49,8 @@ Visiting Undergraduate, <a href="https://medicine.yale.edu/bbs/profile/aaron_rin
 Here, we proposed two assays, pro-peptide assay and pH-sensitive assay: the former assay leveraged the unique property of IL-18 that processing of its precursor peptide is required for its maturation. The latter assay harnessed the extracellular acidity of tumor and aimed to construct a low-pH favorable variant. Both assays were developed and evaluated in vitro, ex vivo, and in vivo.<br><br>
 <i>Key Words:</i> Interleukin-18; Precursor Peptide; pH sensitivity; Immunotherapy<br>
 <p align="center">
-  <img width="200" src="https://haikuoli.github.io/files/undergraduate/il18.png"><br>
+  <img width="200" src="https://haikuoli.github.io/files/undergraduate/il18.png"
+       style="width:200px; height:auto"><br>
 </p>
 <i>Others:</i> This thesis work was awarded 2019 Top 0.2% Bachelor Thesis of Shanghai Jiao Tong University. See video of the defense talk <a href="http://sjcg.jwc.sjtu.edu.cn/363/3/3/Video.html">here</a>. It was also presented in <a href="https://haikuoli.github.io/files/Academic_Festival2019-Haikuo-IL18.pdf">posters</a> in the 2nd College Academic Festival (Shanghai, 2/2019) and awarded the Best Design Prize.
 
