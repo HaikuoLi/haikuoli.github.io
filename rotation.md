@@ -19,7 +19,7 @@ Rotation at <a href="http://dbbs.wustl.edu/faculty/Pages/faculty_bio.aspx?SID=67
   (B) I also participated another project on functional validations of potential Epithelial–Mesenchymal Transition (EMT)-driving transcriptional factors of HNSCC.
 <br>
 <p align="center">
-  <img src="https://citeseq.files.wordpress.com/2018/02/cell_hashing.png?w=700"><br><br>
+  <img width="750" src="https://citeseq.files.wordpress.com/2018/02/cell_hashing.png?w=700"><br><br>
 </p>
 
 <strong>Studying transcriptomic variations in kidney diseases</strong><br>
@@ -27,5 +27,5 @@ Rotation at <a href="http://dbbs.wustl.edu/faculty/Pages/faculty_bio.aspx?SID=66
 <i>Brief Description: </i>(A) RNAscope, a nucleic acid in situ hybridization assay, allows characterization and validation of RNA markers with high sensitivity and specificity. In this rotation, I pioneered the RNAscope assay in the lab on multiple kidney models and successfully identified novel molecular heterogeneity in kidney, as well as transcriptomic variations in certain kidney diseases.<br>
 (B) I introduced sci-RNA-seq3 into the lab, which is a cutting-edge high-throughput scRNA-seq technique allowing > 1 million cells being identified per run. sci-RNA-seq3 is expected to establish a comprehensive profile of kidney transcriptomics. This work has been extended to my thesis research.<br>
 <p align="center">
-  <img src="https://haikuoli.github.io/files/rotation_rnascope.png"><br><br>
+  <img width="600" src="https://haikuoli.github.io/files/rotation_rnascope.png"><br><br>
 </p>
