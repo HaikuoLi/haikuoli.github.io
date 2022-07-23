@@ -53,6 +53,46 @@ WeChat/QQ:
 I love reading and writing Chinese prose/poetry in my spare time. WeChat Official Account/Blog: Haikuo_Sky1997 (北乔木).<br>
 I enjoy cooking and I am a soccer fan of Shandong Luneng FC.
 <br><br>
+  
+<strong>Gallery</strong><br>
+<p align="center">
+  <img width="400" src="https://haikuoli.github.io/files/gallery/chicago2017.jpg"
+       style="width:400px; height:auto"><br>
+<p align="center">Downtown Chicago (2017)<br><br>
+  
+<p align="center">
+  <img width="300" src="https://haikuoli.github.io/files/gallery/yale201819.jpg"
+       style="width:300px; height:auto"><br>
+<p align="center">I spent almost a year at Yale (2018-2019)<br><br>
+  
+<p align="center">
+  <img width="400" src="https://haikuoli.github.io/files/gallery/yale_erp2018.jpg"
+       style="width:400px; height:auto"><br>
+<p align="center">East Rock Park, New Haven (2018)<br><br>
+
+<p align="center">
+  <img width="400" src="https://haikuoli.github.io/files/gallery/sjtu2019.jpg"
+       style="width:400px; height:auto"><br>
+<p align="center">East Gate, Shanghai Jiao Tong University (2019)<br><br>
+  
+<p align="center">
+  <img width="400" src="https://haikuoli.github.io/files/gallery/shanghai2019.jpg"
+       style="width:400px; height:auto"><br>
+<p align="center">Huangpu River, Shanghai (2019)<br><br>
+  
+<p align="center">
+  <img width="400" src="https://haikuoli.github.io/files/gallery/stl2019.jpg"
+       style="width:400px; height:auto"><br>
+<p align="center">I landed at St. Louis in a midnight (8/10/2019)<br><br>
+  
+<p align="center">
+  <img width="400" src="https://haikuoli.github.io/files/gallery/stlfall2019.jpg"
+       style="width:400px; height:auto"><br>
+<p align="center">Forest Park, St. Louis (2019)<br><br>
+  
+<p align="center">And more in the future...<br><br>
+
+</p>
 
 <i>Website Acknowledgement: the format is forked from <a href="https://github.com/pesoto/pesoto.github.io" target="_self">https://github.com/pesoto/pesoto.github.io.</a></i>
 <br></p>
