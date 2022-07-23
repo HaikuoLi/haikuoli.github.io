@@ -19,7 +19,7 @@ My graduate research focuses on investigating molecular mechanisms underlying ki
 <p align="center">sci-RNA-seq3 project overview<br><br><br>
 </p>
 
-<p align="center">______________________________
+<p align="center">__________________________________________________
 </p>
 
 <br>
