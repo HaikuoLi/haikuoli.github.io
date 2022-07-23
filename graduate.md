@@ -12,7 +12,7 @@ My graduate research focuses on investigating molecular mechanisms underlying ti
 <img src="https://haikuoli.github.io/files/sciseq-scheme.png" alt="Project workflow"><br><br><br>
 
 
-***
+---
 
 <br>
 <strong>MILESTONES</strong><br>
