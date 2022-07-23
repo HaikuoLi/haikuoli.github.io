@@ -9,14 +9,18 @@ At least three rotations are required for WashU DBBS students before choosing a 
 <strong>Understanding the intracellular effects of Cationic Amphipathic Drugs on organelles</strong><br>
 Rotation at <a href="http://www.dbbs.wustl.edu/faculty/Pages/faculty_bio.aspx?SID=6646">Peterson Lab</a>, 8/2019-11/2019<br>
 <i>Brief Description: </i>Cationic Amphipathic Drugs are utilized in various clinical applications, but their underlying intracellular mechanisms are largely unknown. We hypothesized that due to different drug treatments, cell organelles would exhibit different morphology and changes of their abundance, ultimately contributing to distinct mechanisms of cell death. In this rotation, I successfully completed the imaging tests to investigate the intracellular drug effects.<br><br>
-
+<p align="center">
+  <img src="https://haikuoli.github.io/files/rotation_yeast.png"><br><br>
+</p>
   
 <strong>Studying the tumor heterogeneity of head and neck cancer by single-cell sequencing</strong><br>
 Rotation at <a href="http://dbbs.wustl.edu/faculty/Pages/faculty_bio.aspx?SID=6785">Puram Lab</a>, 11/2019-1/2020<br>
 <i>Brief Description: </i>(A) Cell hashing is a single-cell RNA sequencing (scRNA-seq) method multiplexing different cell lines with unique antibody barcodes. It enables us to reduce the routine cost of scRNA-seq, decrease the technology-dependent batch effects, and largely exclude potential doublet signals in scRNA-seq. In this rotation, I successfully performed cell hashing on head and neck squamous cell carcinoma (HNSCC) cell lines which generated a series of datasets with promising data quality.<br>
   (B) I also participated another project on functional validations of potential Epithelial–Mesenchymal Transition (EMT)-driving transcriptional factors of HNSCC.
-<br><br>
-
+<br>
+<p align="center">
+  <img src="https://citeseq.files.wordpress.com/2018/02/cell_hashing.png?w=700"><br><br>
+</p>
 
 <strong>Studying transcriptomic variations in kidney diseases</strong><br>
 Rotation at <a href="http://dbbs.wustl.edu/faculty/Pages/faculty_bio.aspx?SID=6634">Humphreys Lab</a>, 1/2020-4/2020<br>
