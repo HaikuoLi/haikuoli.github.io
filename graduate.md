@@ -17,7 +17,7 @@ However, the underlying cellular events driving fibrosis are not well understood
 My graduate research focuses on investigating molecular mechanisms underlying kidney fibrogenesis with large-scale single-cell multiomics, under the mentorship of Dr. Benjamin Humphreys. With a novel single-cell profiling methodology called split-pool barcoding, we are studying novel cellular states responsible for tissue injury and repair and identifying potential therapeutic targets.<br><br><br>
 <img src="https://haikuoli.github.io/files/sciseq-scheme.png" alt="Project workflow">
 <p align="center">sci-RNA-seq3 project overview<br><br><br>
-
+</p>
 
 ---
 
