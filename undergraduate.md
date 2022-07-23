@@ -51,7 +51,7 @@ Here, we proposed two assays, pro-peptide assay and pH-sensitive assay: the form
 <p align="center">
   <img width="200" src="https://haikuoli.github.io/files/undergraduate/il18.png"><br>
 </p>
-<i>Others:</i> This thesis work was awarded 2019 Top 0.2% Bachelor Thesis of Shanghai Jiao Tong University</a>. See video of the defense talk <a href="http://sjcg.jwc.sjtu.edu.cn/363/3/3/Video.html">here</a>. It was also presented in <a href="https://haikuoli.github.io/files/Academic_Festival2019-Haikuo-IL18.pdf">posters</a> in the 2nd College Academic Festival (Shanghai, 2/2019) and awarded the Best Design Prize.
+<i>Others:</i> This thesis work was awarded 2019 Top 0.2% Bachelor Thesis of Shanghai Jiao Tong University. See video of the defense talk <a href="http://sjcg.jwc.sjtu.edu.cn/363/3/3/Video.html">here</a>. It was also presented in <a href="https://haikuoli.github.io/files/Academic_Festival2019-Haikuo-IL18.pdf">posters</a> in the 2nd College Academic Festival (Shanghai, 2/2019) and awarded the Best Design Prize.
 
 <br><br>
 ------
