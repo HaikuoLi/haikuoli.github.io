@@ -12,9 +12,10 @@ I got my Bachelor of Science Degree at Shanghai Jiao Tong University (Bioscience
 Moreover, I spent my fourth year as a visiting student at Yale University Department of Immunobiology modulating the immunotherapeutic efficacy of Interleukin-18 by protein engineering.<br><br>
   
 
-<p align="center">______________________________
+<br><br>
+<p align="center">__________________________________________________
 </p>
-<br>
+<br><br>
   
 <strong>Clinical Proteomics Analysis using Data Independent Acquisition-Mass Spectrometry Identified Classifiers for Molecular Characterization of Lymphoma</strong><br>
 Undergraduate Research Fellow, <a href="https://www.linkedin.com/in/wei-yan-5794922/">Yan Lab</a>, Shanghai Center for Systems Biomedicine, Shanghai Jiao Tong University, 9/2016-7/2018<br><br>
@@ -33,15 +34,18 @@ Development of molecular classifiers of lymphoma will provide potential biomarke
 <i>Others:</i> This work was presented in <a href="https://hupo.org/resources/Documents/Congress/2018/Book%20of%20Abstracts_HUPO%202018.pdf">posters</a> in the 17th Human Proteome Organization World Congress (Orlando, 9/2018).
 
 <br><br>
-<p align="center">______________________________
+<p align="center">__________________________________________________
 </p>
 <br><br>
 
 <strong>Immunotherapy by Decoy-Resistant Interleukin-18 (DR-18)</strong><br>
 Visiting Undergraduate, <a href="https://medicine.yale.edu/bbs/profile/aaron_ring/">Ring Lab</a>, Department of Immunobiology, Yale University School of Medicine, 7/2018-4/2019<br><br>
   
-<i>Summary:</i> Zhou et al. (<a href="https://www.nature.com/articles/s41586-020-2422-6">Nature 2020</a>) showed that IL-18BP, a high-affinity IL-18 decoy receptor, is frequently upregulated in diverse human and mouse tumours and limits the anti-tumour activity of IL-18 in mice. At Ring Lab, I participated experiments involved in this study. Using directed evolution, we engineered a ‘decoy-resistant’ IL-18 (DR-18) which showed promising immunotherapeutic efficacy.<br><br>
-<br>
+<i>Summary:</i> Zhou et al. (<a href="https://www.nature.com/articles/s41586-020-2422-6">Nature 2020</a>) showed that IL-18BP, a high-affinity IL-18 decoy receptor, is frequently upregulated in diverse human and mouse tumours and limits the anti-tumour activity of IL-18 in mice. At Ring Lab, I participated experiments involved in this study. Using directed evolution, we engineered a ‘decoy-resistant’ IL-18 (DR-18) which showed promising immunotherapeutic efficacy.<br>
+<p align="center">
+  <img width="250" src="https://haikuoli.github.io/files/undergraduate/il18.png"
+       style="width:250px; height:auto"><br><br>
+</p>
   
   
   
@@ -53,14 +57,16 @@ Visiting Undergraduate, <a href="https://medicine.yale.edu/bbs/profile/aaron_rin
 <i>Research Description:</i> 
 Here, we proposed two assays, pro-peptide assay and pH-sensitive assay: the former assay leveraged the unique property of IL-18 that processing of its precursor peptide is required for its maturation. The latter assay harnessed the extracellular acidity of tumor and aimed to construct a low-pH favorable variant. Both assays were developed and evaluated in vitro, ex vivo, and in vivo.<br><br>
 <i>Key Words:</i> Interleukin-18; Precursor Peptide; pH sensitivity; Immunotherapy<br>
+
 <p align="center">
-  <img width="250" src="https://haikuoli.github.io/files/undergraduate/il18.png"
-       style="width:250px; height:auto"><br>
+  <img width="400" src="https://haikuoli.github.io/files/undergraduate/il18-pro.png"
+       style="width:400px; height:auto"><br>
 </p>
+
 <i>Others:</i> This thesis work was awarded 2019 Top 0.2% Bachelor Thesis of Shanghai Jiao Tong University. See video of the defense talk <a href="http://sjcg.jwc.sjtu.edu.cn/363/3/3/Video.html">here</a>. It was also presented in <a href="https://haikuoli.github.io/files/Academic_Festival2019-Haikuo-IL18.pdf">posters</a> in the 2nd College Academic Festival (Shanghai, 2/2019) and awarded the Best Design Prize.
 
 <br><br>
-<p align="center">______________________________
+<p align="center">__________________________________________________
 </p>
 <br><br>
   
