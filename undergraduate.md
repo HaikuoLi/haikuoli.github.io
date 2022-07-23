@@ -29,8 +29,8 @@ Development of molecular classifiers of lymphoma will provide potential biomarke
 <i>Others:</i> This work was presented in <a href="https://hupo.org/resources/Documents/Congress/2018/Book%20of%20Abstracts_HUPO%202018.pdf">posters</a> in the 17th Human Proteome Organization World Congress (Orlando, 9/2018).
 
 <br><br>
----
-<br>
+------
+<br><br>
 
 <strong>Immunotherapy by Decoy-Resistant Interleukin-18 (DR-18)</strong><br>
 Visiting Undergraduate, <a href="https://medicine.yale.edu/bbs/profile/aaron_ring/">Ring Lab</a>, Department of Immunobiology, Yale University School of Medicine, 7/2018-4/2019<br><br>
@@ -54,8 +54,8 @@ Here, we proposed two assays, pro-peptide assay and pH-sensitive assay: the form
 <i>Others:</i> This thesis work was awarded 2019 Top 0.2% Bachelor Thesis of Shanghai Jiao Tong University</a>. See video of the defense talk <a href="http://sjcg.jwc.sjtu.edu.cn/363/3/3/Video.html">here</a>. It was also presented in <a href="https://haikuoli.github.io/files/Academic_Festival2019-Haikuo-IL18.pdf">posters</a> in the 2nd College Academic Festival (Shanghai, 2/2019) and awarded the Best Design Prize.
 
 <br><br>
----
-<br>
+------
+<br><br>
   
   <strong>Detecting Positively Selected Genes among Mammalian Species Using Phylogenetic Analysis of Maximum Likelihood</strong><br>
 Study Tour, <a href="http://longlab.uchicago.edu/">Long Lab</a>, Department of Ecology and Evolution, The University of Chicago, 6/2017-8/2017<br><br>
