@@ -18,7 +18,7 @@ My graduate research focuses on investigating molecular mechanisms underlying ki
 <img src="https://haikuoli.github.io/files/sciseq-scheme.png" alt="Project workflow">
 <p align="center">sci-RNA-seq3 project overview<br><br>
 </p>
-<p align="center">__________________________________________________
+<p align="center">_________________________________________________________________
 </p>
 
 
@@ -26,7 +26,7 @@ My graduate research focuses on investigating molecular mechanisms underlying ki
 Our work studying kidney fibrosis was published on <strong>Cell Metabolism</strong>, where we discovered novel injury states of renal proximal tubular cells and defined how lipid metabolism was dysregulated over the full time course of disease progression:
 <img src="https://haikuoli.github.io/files/CM_page.jpg" alt="Project workflow">
 
-<p align="center">__________________________________________________
+<p align="center">_________________________________________________________________
 </p>
 
 
