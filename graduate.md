@@ -16,16 +16,20 @@ However, the underlying cellular events driving fibrosis are not well understood
   
 My graduate research focuses on investigating molecular mechanisms underlying kidney fibrogenesis with large-scale single-cell multiomics, under the mentorship of Dr. Benjamin Humphreys. With a novel single-cell profiling methodology called split-pool barcoding, we are studying novel cellular states responsible for tissue injury and repair and identifying potential therapeutic targets.<br><br><br>
 <img src="https://haikuoli.github.io/files/sciseq-scheme.png" alt="Project workflow">
-<p align="center">sci-RNA-seq3 project overview<br>
-</p>
-
-<img src="https://haikuoli.github.io/files/CM_page.jpg" alt="Project workflow">
-<p align="center">Our work studying kidney fibrosis was published on Cell Metabolism.<br>
+<p align="center">sci-RNA-seq3 project overview<br><br>
 </p>
 <p align="center">__________________________________________________
 </p>
 
+
 <br>
+Our work studying kidney fibrosis was published on <strong>Cell Metabolism</a></strong>, where we discovered novel injury states of renal proximal tubular cells and defined how lipid metabolism was dysregulated over the full time course of disease progression:
+<img src="https://haikuoli.github.io/files/CM_page.jpg" alt="Project workflow">
+
+<p align="center">__________________________________________________
+</p>
+
+
 <strong>MILESTONES</strong><br>
 I was trained by <a href="http://dbbs.wustl.edu/divprograms/biophysics/Pages/BBSB.aspx">Biochemistry, Biophysics & Structural Biology Program</a> in the first semester in 2019. I developed my research interests in single-cell studies and joined <a href="http://dbbs.wustl.edu/divprograms/genetics/Pages/default.aspx">Molecular Genetics and Genomics Program</a> since 2020. I officialy joined Humphreys Lab in June 2020. I passed the qualifying exam in Sept 2020 by proposing a project related to kidney fibrosis and myofibroblast biology. My thesis project was proposed in August 2021.<br><br>
   
