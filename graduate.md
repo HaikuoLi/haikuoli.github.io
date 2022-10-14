@@ -23,7 +23,7 @@ My graduate research focuses on investigating molecular mechanisms underlying ki
 
 
 <br>
-Our work studying kidney fibrosis was published on <strong>Cell Metabolism</a></strong>, where we discovered novel injury states of renal proximal tubular cells and defined how lipid metabolism was dysregulated over the full time course of disease progression:
+Our work studying kidney fibrosis was published on <strong>Cell Metabolism</strong>, where we discovered novel injury states of renal proximal tubular cells and defined how lipid metabolism was dysregulated over the full time course of disease progression:
 <img src="https://haikuoli.github.io/files/CM_page.jpg" alt="Project workflow">
 
 <p align="center">__________________________________________________
