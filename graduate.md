@@ -25,7 +25,12 @@ My graduate research focuses on investigating molecular mechanisms underlying ki
 <br>
 Our work studying kidney fibrosis was published on <strong>Cell Metabolism</strong>, where we discovered novel injury states of renal proximal tubular cells and defined how lipid metabolism was dysregulated over the full time course of disease progression:
 <img src="https://haikuoli.github.io/files/CM_page.jpg" alt="Project workflow">
+<p align="center">_________________________________________________________________
+</p>
 
+<br>
+Our optimized sci-RNA-seq3 library generation protocol with improved library quality on mouse kidney tissues was published on <strong>STAR Protocols</strong>:
+<img src="https://haikuoli.github.io/files/STAR_protocol_page.jpg" alt="Protocol Page">
 <p align="center">_________________________________________________________________
 </p>
 
