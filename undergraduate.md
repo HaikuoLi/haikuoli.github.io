@@ -5,7 +5,7 @@ permalink: /undergraduate/
 ---
 
 <p style="text-align:justify">
-<strong><a href="https://zhiyuan.sjtu.edu.cn/html/zhiyuan/student_view.php?id=689"> SJTU Zhiyuan College Roster</a></strong><br>
+<strong><a href="https://zhiyuan.sjtu.edu.cn/html/zhiyuan/student_view?id=2420"> SJTU Zhiyuan College Roster</a></strong><br>
 <br>
 
 I obtained my Bachelor of Science Degree at Shanghai Jiao Tong University (Bioscience, Zhiyuan Honors Program) in 2019. At Shanghai Center for Systems Biology, I led a proteomic project on identification of lymphoma classifiers via mass spectrometry.<br>
