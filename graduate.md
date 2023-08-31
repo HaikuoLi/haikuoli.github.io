@@ -5,7 +5,7 @@ permalink: /graduate/
 ---
 
 <p style="text-align:justify">
-<strong><a href="http://dbbs.wustl.edu/curstudents/Pages/student_bio.aspx?SID=7712"> WashU DBBS Page</a></strong><br>
+<strong><a href="https://dbbs.wustl.edu/people/haikuo-li/"> WashU DBBS Page</a></strong><br>
 <br>
   
   
