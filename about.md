@@ -68,7 +68,12 @@ I enjoy cooking and I am a soccer fan of Shandong Luneng FC.
   <img width="400" src="https://haikuoli.github.io/files/gallery/stlfall2019.jpg"
        style="width:400px; height:auto">
 <p align="center">Forest Park, St. Louis (2019)<br><br>
-
+  
+<p align="center">
+  <img width="400" src="https://haikuoli.github.io/files/gallery/forestpark2022.jpg"
+       style="width:400px; height:auto">
+<p align="center">Forest Park, St. Louis (2022)<br><br>
+  
 <p align="center">
   <img width="400" src="https://haikuoli.github.io/files/gallery/squirrel2023.JPG"
        style="width:400px; height:auto">
