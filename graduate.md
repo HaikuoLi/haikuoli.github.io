@@ -33,7 +33,7 @@ Our work studying human kidney anatomy was published on <strong>Cell Metabolism<
 </p>
 
 <br>
-Our optimized sci-RNA-seq3 library generation protocol with improved library quality on mouse kidney tissues was published on <strong>STAR Protocols</strong>:
+Our optimized sci-RNA-seq3 library generation protocol with improved library quality on mouse kidney tissues was published on <strong>STAR Protocols</strong> in 2022:
 <img src="https://haikuoli.github.io/files/STAR_protocol_page.jpg" alt="Protocol Page">
 <p align="center">_________________________________________________________________
 </p>
