@@ -21,7 +21,7 @@ My graduate research focuses on investigating molecular mechanisms underlying ki
 
 
 <br>
-Our work studying mouse models of kidney fibrosis was published on <strong>Cell Metabolism</strong> in 2022, where we discovered novel injury states of renal proximal tubular cells and defined how lipid metabolism was dysregulated over the full time course of disease progression. PLIN2 was identified as a marker of intracellular lipid droplets during kidney injury:
+Our work studying mouse models of kidney fibrosis was published on <strong>Cell Metabolism</strong> in 2022, where we discovered novel injury states of renal proximal tubular cells and defined how lipid metabolism was dysregulated over the time course of disease progression. PLIN2 was identified as a marker of intracellular lipid droplets during kidney injury:
 <img src="https://haikuoli.github.io/files/CM_page.jpg" alt="Project workflow">
 <p align="center">_________________________________________________________________
 </p>
@@ -46,5 +46,5 @@ Our work studying human kidney anatomy with imaging mass spectrometry was publis
 
 
 <strong>MILESTONES</strong><br>
-I was trained by <a href="http://dbbs.wustl.edu/divprograms/biophysics/Pages/BBSB.aspx">Biochemistry, Biophysics & Structural Biology Program</a> in the first semester in 2019. I developed my research interests in single-cell studies and joined <a href="http://dbbs.wustl.edu/divprograms/genetics/Pages/default.aspx">Molecular Genetics and Genomics Program</a> since 2020. I officialy joined Humphreys Lab in June 2020. I passed the qualifying exam in Sept 2020 by proposing a project related to kidney fibrosis and myofibroblast biology. My thesis project was proposed in August 2021.<br><br>
+I was trained by <a href="http://dbbs.wustl.edu/divprograms/biophysics/Pages/BBSB.aspx">Biochemistry, Biophysics & Structural Biology Program</a> in the first semester in 2019. I developed my research interests in single-cell studies and joined <a href="http://dbbs.wustl.edu/divprograms/genetics/Pages/default.aspx">Molecular Genetics and Genomics Program</a> since 2020. I officialy joined Humphreys Lab in June 2020. I passed the qualifying exam in Sept 2020 by proposing a project related to kidney fibrosis and myofibroblast biology. My thesis project was proposed in August 2021. I defended my thesis in December 2023.<br><br>
   
