@@ -39,8 +39,8 @@ Our optimized sci-RNA-seq3 library generation protocol with improved library qua
 </p>
 
 <br>
-Our work studying human kidney anatomy with imaging mass spectrometry was published on <strong>Data in Brief</strong> in 2024:
-<img src="https://haikuoli.github.io/files/datainbrief_2024.jpg" alt="Project workflow">
+Our work studying human kidney anatomy with imaging mass spectrometry was published on <strong>Data in Brief</strong> in 2024:<br>
+<img src="https://haikuoli.github.io/files/datainbrief_2024.jpg" style="width:500px" align="center">
 <p align="center">_________________________________________________________________
 </p>
 
