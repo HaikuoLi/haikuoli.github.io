@@ -15,16 +15,20 @@ However, the underlying cellular events driving fibrosis are not well understood
   
   
 My graduate research focuses on investigating molecular mechanisms underlying kidney fibrogenesis with large-scale single-cell multiomics, under the mentorship of Dr. Benjamin Humphreys. With a novel single-cell profiling methodology called split-pool barcoding, we are studying novel cellular states responsible for tissue injury and repair and identifying potential therapeutic targets.<br><br><br>
-<img src="https://haikuoli.github.io/files/sciseq-scheme.png" alt="Project workflow">
-<p align="center">sci-RNA-seq3 project overview<br><br>
-</p>
+
 <p align="center">_________________________________________________________________
 </p>
 
 
 <br>
-Our work studying kidney fibrosis was published on <strong>Cell Metabolism</strong>, where we discovered novel injury states of renal proximal tubular cells and defined how lipid metabolism was dysregulated over the full time course of disease progression:
+Our work studying mouse models of kidney fibrosis was published on <strong>Cell Metabolism</strong> in 2022, where we discovered novel injury states of renal proximal tubular cells and defined how lipid metabolism was dysregulated over the full time course of disease progression. PLIN2 was identified as a marker of intracellular lipid droplets during kidney injury:
 <img src="https://haikuoli.github.io/files/CM_page.jpg" alt="Project workflow">
+<p align="center">_________________________________________________________________
+</p>
+
+<br>
+Our work studying human kidney anatomy was published on <strong>Cell Metabolism</strong> in 2024, where we found that the same tubular epithelial cells have distinct signatures depending on regional locations and identified pathogenic candidate genes of human kidney disease. We also presented a computational pipeline for analysis of spatially resolved metabolomics data:
+<img src="https://haikuoli.github.io/files/CM_2024.jpg" alt="Project workflow">
 <p align="center">_________________________________________________________________
 </p>
 
