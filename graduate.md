@@ -21,25 +21,25 @@ My graduate research focuses on investigating molecular mechanisms underlying ki
 
 
 <br>
-Our work studying mouse models of kidney fibrosis was published on <strong>Cell Metabolism</strong> in 2022, where we discovered novel injury states of renal proximal tubular cells and defined how lipid metabolism was dysregulated over the time course of disease progression. PLIN2 was identified as a marker of intracellular lipid droplets during kidney injury:
+Our work studying mouse models of kidney fibrosis was published on <strong>Cell Metabolism</strong> in 2022 (<strong><a href="https://doi.org/10.1016/j.cmet.2022.09.026">LINK</a></strong>), where we discovered novel injury states of renal proximal tubular cells and defined how lipid metabolism was dysregulated over the time course of disease progression. PLIN2 was identified as a marker of intracellular lipid droplets during kidney injury:
 <img src="https://haikuoli.github.io/files/CM_page.jpg" alt="Project workflow">
 <p align="center">_________________________________________________________________
 </p>
 
 <br>
-Our work studying human kidney anatomy was published on <strong>Cell Metabolism</strong> in 2024, where we found that the same tubular epithelial cells have distinct signatures depending on regional locations and identified pathogenic candidate genes of human kidney disease. We also presented a computational pipeline for analysis of spatially resolved metabolomics data:
+Our work studying human kidney anatomy was published on <strong>Cell Metabolism</strong> in 2024 (<strong><a href="https://doi.org/10.1016/j.cmet.2024.02.015">LINK</a></strong>), where we found that the same tubular epithelial cells have distinct signatures depending on regional locations and identified pathogenic candidate genes of human kidney disease. We also presented a computational pipeline for analysis of spatially resolved metabolomics data:
 <img src="https://haikuoli.github.io/files/CM_2024.jpg" alt="Project workflow">
 <p align="center">_________________________________________________________________
 </p>
 
 <br>
-Our optimized sci-RNA-seq3 library generation protocol with improved library quality on mouse kidney tissues was published on <strong>STAR Protocols</strong> in 2022:
+Our optimized sci-RNA-seq3 library generation protocol with improved library quality on mouse kidney tissues was published on <strong>STAR Protocols</strong> in 2022 (<strong><a href="https://doi.org/10.1016/j.xpro.2022.101904">LINK</a></strong>):
 <img src="https://haikuoli.github.io/files/STAR_protocol_page.jpg" alt="Protocol Page">
 <p align="center">_________________________________________________________________
 </p>
 
 <br>
-Our work studying human kidney anatomy with imaging mass spectrometry was published on <strong>Data in Brief</strong> in 2024:<br>
+Our work studying human kidney anatomy with imaging mass spectrometry was published on <strong>Data in Brief</strong> in 2024 (<strong><a href="https://doi.org/10.1016/j.dib.2024.110431">LINK</a></strong>):<br>
 <img src="https://haikuoli.github.io/files/datainbrief_2024.jpg">
 <p align="center">_________________________________________________________________
 </p>
