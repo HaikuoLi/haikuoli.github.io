@@ -58,11 +58,21 @@ I enjoy cooking and I am a soccer fan of Shandong Luneng FC.
   <img width="400" src="https://haikuoli.github.io/files/gallery/stl2019.jpg"
        style="width:400px; height:auto">
 <p align="center">I landed in St. Louis in a midnight (8/10/2019)<br><br>
+
+<p align="center">
+  <img width="400" src="https://haikuoli.github.io/files/gallery/UIUC_2020.jpg"
+       style="width:400px; height:auto">
+<p align="center">Japan House at UIUC, Illinois (2020)<br><br>
   
 <p align="center">
   <img width="400" src="https://haikuoli.github.io/files/gallery/forestpark2022.jpg"
        style="width:400px; height:auto">
 <p align="center">Forest Park, St. Louis (2022)<br><br>
+
+<p align="center">
+  <img width="400" src="https://haikuoli.github.io/files/gallery/SF_2022.jpg"
+       style="width:400px; height:auto">
+<p align="center">Half Moon Bay, California (2022)<br><br>
   
 <p align="center">
   <img width="400" src="https://haikuoli.github.io/files/gallery/squirrel2023.JPG"
