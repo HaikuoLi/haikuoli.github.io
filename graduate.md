@@ -46,15 +46,15 @@ Our work studying human kidney anatomy with imaging mass spectrometry was publis
 
 <br>
 Glad to chat more about my graduate researches!<br>
-<p float="center">
-  <img src="https://haikuoli.github.io/files/publications/JCI_2024.jpg" style="width:220px" />
-  <img src="https://haikuoli.github.io/files/publications/NI_2022.jpg" style="width:220px" /> 
-  <img src="https://haikuoli.github.io/files/publications/k360_2021.jpg" style="width:220px" />
-  <img src="https://haikuoli.github.io/files/publications/KI_2024.jpg" style="width:220px" /><br>
-  <img src="https://haikuoli.github.io/files/publications/book_2022.jpg" style="width:220px" />
-  <img src="https://haikuoli.github.io/files/publications/KI_2020.jpg" style="width:220px" /> 
-  <img src="https://haikuoli.github.io/files/publications/genbio_2024.jpg" style="width:220px" />
-  <img src="https://haikuoli.github.io/files/publications/STAR_QA.jpg" style="width:220px" /><br>
+<p float="left">
+  <img src="https://haikuoli.github.io/files/publications/JCI_2024.jpg" style="width:350px" />
+  <img src="https://haikuoli.github.io/files/publications/NI_2022.jpg" style="width:350px" /> 
+  <img src="https://haikuoli.github.io/files/publications/k360_2021.jpg" style="width:350px" />
+  <img src="https://haikuoli.github.io/files/publications/KI_2024.jpg" style="width:350px" /><br>
+  <img src="https://haikuoli.github.io/files/publications/book_2022.jpg" style="width:350px" />
+  <img src="https://haikuoli.github.io/files/publications/KI_2020.jpg" style="width:350px" /> 
+  <img src="https://haikuoli.github.io/files/publications/genbio_2024.jpg" style="width:350px" />
+  <img src="https://haikuoli.github.io/files/publications/STAR_QA.jpg" style="width:350px" /><br>
 </p>
 
 <p align="center">_________________________________________________________________
