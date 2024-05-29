@@ -60,11 +60,6 @@ I enjoy cooking and I am a soccer fan of Shandong Luneng FC.
 <p align="center">I landed in St. Louis in a midnight (8/10/2019)<br><br>
   
 <p align="center">
-  <img width="400" src="https://haikuoli.github.io/files/gallery/stlfall2019.jpg"
-       style="width:400px; height:auto">
-<p align="center">Forest Park, St. Louis (2019)<br><br>
-  
-<p align="center">
   <img width="400" src="https://haikuoli.github.io/files/gallery/forestpark2022.jpg"
        style="width:400px; height:auto">
 <p align="center">Forest Park, St. Louis (2022)<br><br>
@@ -74,6 +69,11 @@ I enjoy cooking and I am a soccer fan of Shandong Luneng FC.
        style="width:400px; height:auto">
 <p align="center">A squirrel in the autumn, Illinois (2023)<br><br>
 
+<p align="center">
+  <img width="400" src="https://haikuoli.github.io/files/gallery/fall_2024.jpg"
+       style="width:400px; height:auto">
+<p align="center">Niagara Falls (2024)<br><br>
+  
 <p align="center">
   <img width="400" src="https://haikuoli.github.io/files/gallery/acadia_2024.jpg"
        style="width:400px; height:auto">
