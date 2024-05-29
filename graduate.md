@@ -14,7 +14,7 @@ Chronic kidney disease (CKD) affects ~10% of the population worldwide and ultima
 However, the underlying cellular events driving fibrosis are not well understood. For example, injured proximal tubule (PT) cell states exist, but it is unclear whether and how these injured PT cells may drive fibrosis and contribute to disease progression. As another example, lowly abundant cell types (e.g., distal nephron cells) are usually underrepresented by current popular single-cell methods such as 10X Genomics due to low throughput, which limits our understanding of their fibrotic effects and highlights the importance of pursuing large-scale profiling to depict a global view of kidney fibrosis.<br>
   
   
-My graduate research focuses on investigating molecular mechanisms underlying kidney fibrogenesis with large-scale single-cell multiomics, under the mentorship of Dr. Benjamin Humphreys. With a novel single-cell profiling methodology called split-pool barcoding, we are studying novel cellular states responsible for tissue injury and repair and identifying potential therapeutic targets.<br><br><br>
+My graduate research focuses on investigating molecular mechanisms underlying kidney fibrogenesis with large-scale single-cell multiomics, under the mentorship of Dr. Benjamin Humphreys. With a novel single-cell profiling methodology called split-pool barcoding, we are studying novel cellular states responsible for tissue injury and repair and identifying potential therapeutic targets.<br>
 
 <p align="center">_________________________________________________________________
 </p>
@@ -45,22 +45,22 @@ Our work studying human kidney anatomy with imaging mass spectrometry was publis
 </p>
 
 <br>
-Glad to chat more about my graduate researches!<br><br>
-
-
-Journal of Clinical Investigation, 2024|Nature Immunology, 2022
-:-------------------------:|:-------------------------:
-<img src="https://haikuoli.github.io/files/publications/JCI_2024.jpg" style="width:450px" />  |  <img src="https://haikuoli.github.io/files/publications/NI_2022.jpg" style="width:450px" />
-Kidney360, 2021|Kidney International, 2024
-<img src="https://haikuoli.github.io/files/publications/k360_2021.jpg" style="width:450px" />  |  <img src="https://haikuoli.github.io/files/publications/KI_2024.jpg" style="width:450px" />
-Innovations in Nephrology, 2022 (Book Chapter)|Kidney International, 2020
-<img src="https://haikuoli.github.io/files/publications/book_2022.jpg" style="width:450px" />  |  <img src="https://haikuoli.github.io/files/publications/KI_2020.jpg" style="width:450px" /> 
-Genome Biology, 2024|STAR Protocols, 2023 (Special Issue)
-<img src="https://haikuoli.github.io/files/publications/genbio_2024.jpg" style="width:450px" />  |  <img src="https://haikuoli.github.io/files/publications/STAR_QA.jpg" style="width:450px" />
-
+<p align="center">Glad to chat more about my graduate researches!<br></p>
+<p float="left">
+  <img src="https://haikuoli.github.io/files/publications/JCI_2024.jpg" style="width:450px" />
+  <img src="https://haikuoli.github.io/files/publications/NI_2022.jpg" style="width:450px" /> 
+  <img src="https://haikuoli.github.io/files/publications/k360_2021.jpg" style="width:450px" />
+  <img src="https://haikuoli.github.io/files/publications/KI_2024.jpg" style="width:450px" />
+  <img src="https://haikuoli.github.io/files/publications/book_2022.jpg" style="width:450px" />
+  <img src="https://haikuoli.github.io/files/publications/KI_2020.jpg" style="width:450px" /> 
+  <img src="https://haikuoli.github.io/files/publications/genbio_2024.jpg" style="width:450px" />
+  <img src="https://haikuoli.github.io/files/publications/STAR_QA.jpg" style="width:450px" />
+</p>
 
 <p align="center">_________________________________________________________________
 </p>
+
+<br>
 
 <strong>MILESTONES</strong><br>
 I was trained by <a href="http://dbbs.wustl.edu/divprograms/biophysics/Pages/BBSB.aspx">Biochemistry, Biophysics & Structural Biology Program</a> in the first semester in 2019. I developed my research interests in single-cell studies and joined <a href="http://dbbs.wustl.edu/divprograms/genetics/Pages/default.aspx">Molecular Genetics and Genomics Program</a> since 2020. I officialy joined Humphreys Lab in June 2020. I passed the qualifying exam in Sept 2020 by proposing a project related to kidney fibrosis and myofibroblast biology. My thesis project was proposed in August 2021. I defended my thesis in December 2023.<br><br>
