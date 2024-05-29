@@ -40,21 +40,24 @@ Our optimized sci-RNA-seq3 library generation protocol with improved library qua
 
 <br>
 Our work studying human kidney anatomy with imaging mass spectrometry was published on <strong>Data in Brief</strong> in 2024:<br>
-<img src="https://haikuoli.github.io/files/datainbrief_2024.jpg" style="width:400px" align="center">
+<img src="https://haikuoli.github.io/files/datainbrief_2024.jpg" style="width:500px" align="center">
 <p align="center">_________________________________________________________________
 </p>
 
 <br>
-Glad to chat more about my graduate researches!
-<img src="https://haikuoli.github.io/files/publications/JCI_2024.jpg" style="width:250px"><img src="https://haikuoli.github.io/files/publications/NI_2022.jpg" style="width:250px">
-<img src="https://haikuoli.github.io/files/publications/k360_2021.jpg" style="width:250px"><img src="https://haikuoli.github.io/files/publications/KI_2024.jpg" style="width:250px">
-<br>
-<img src="https://haikuoli.github.io/files/publications/KI_2020.jpg" style="width:250px"><img src="https://haikuoli.github.io/files/publications/book_2022.jpg" style="width:250px">
-<img src="https://haikuoli.github.io/files/publications/genbio_2024.jpg" style="width:250px"><img src="https://haikuoli.github.io/files/publications/STAR_QA.jpg" style="width:250px">
+<p float="center">
+  <img src="https://haikuoli.github.io/files/publications/JCI_2024.jpg" width="220" />
+  <img src="https://haikuoli.github.io/files/publications/NI_2022.jpg" width="220" /> 
+  <img src="https://haikuoli.github.io/files/publications/k360_2021.jpg" width="220" />
+  <img src="https://haikuoli.github.io/files/publications/KI_2024.jpg" width="220" />
+  <img src="https://haikuoli.github.io/files/publications/KI_2020.jpg" width="220" />
+  <img src="https://haikuoli.github.io/files/publications/book_2022.jpg" width="220" /> 
+  <img src="https://haikuoli.github.io/files/publications/genbio_2024.jpg" width="220" />
+  <img src="https://haikuoli.github.io/files/publications/STAR_QA.jpg" width="220" />
+</p>
 
 <p align="center">_________________________________________________________________
 </p>
-
 
 <strong>MILESTONES</strong><br>
 I was trained by <a href="http://dbbs.wustl.edu/divprograms/biophysics/Pages/BBSB.aspx">Biochemistry, Biophysics & Structural Biology Program</a> in the first semester in 2019. I developed my research interests in single-cell studies and joined <a href="http://dbbs.wustl.edu/divprograms/genetics/Pages/default.aspx">Molecular Genetics and Genomics Program</a> since 2020. I officialy joined Humphreys Lab in June 2020. I passed the qualifying exam in Sept 2020 by proposing a project related to kidney fibrosis and myofibroblast biology. My thesis project was proposed in August 2021. I defended my thesis in December 2023.<br><br>
