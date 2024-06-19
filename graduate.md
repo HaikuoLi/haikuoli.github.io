@@ -39,6 +39,12 @@ Our optimized sci-RNA-seq3 library generation protocol with improved library qua
 </p>
 
 <br>
+Our split-pool barcoding multiomics sequencing protocol, including human kidney nuclear isolation, was published on <strong>STAR Protocols</strong> in 2024 (<strong><a href="https://doi.org/10.1016/j.xpro.2024.103049">LINK</a></strong>):
+<img src="https://haikuoli.github.io/files/publications/star_2024.jpg" alt="Protocol Page">
+<p align="center">_________________________________________________________________
+</p>
+
+<br>
 Our work studying human kidney anatomy with imaging mass spectrometry was published on <strong>Data in Brief</strong> in 2024 (<strong><a href="https://doi.org/10.1016/j.dib.2024.110431">LINK</a></strong>):<br>
 <img src="https://haikuoli.github.io/files/datainbrief_2024.jpg">
 <p align="center">_________________________________________________________________
