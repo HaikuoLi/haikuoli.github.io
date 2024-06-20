@@ -33,13 +33,13 @@ Our work studying human kidney anatomy was published on <strong>Cell Metabolism<
 </p>
 
 <br>
-Our optimized sci-RNA-seq3 library generation protocol with improved library quality on mouse kidney tissues was published on <strong>STAR Protocols</strong> in 2022 (<strong><a href="https://doi.org/10.1016/j.xpro.2022.101904">LINK</a></strong>):
+Our optimized sci-RNA-seq3 library generation method with improved library quality on mouse kidney tissues was published on <strong>STAR Protocols</strong> in 2022 (<strong><a href="https://doi.org/10.1016/j.xpro.2022.101904">LINK</a></strong>):
 <img src="https://haikuoli.github.io/files/STAR_protocol_page.jpg" alt="Protocol Page">
 <p align="center">_________________________________________________________________
 </p>
 
 <br>
-Our split-pool barcoding multiomics sequencing protocol, including human kidney nuclear isolation, was published on <strong>STAR Protocols</strong> in 2024 (<strong><a href="https://doi.org/10.1016/j.xpro.2024.103049">LINK</a></strong>):
+Our split-pool barcoding multiomics sequencing method, including a protocol for human kidney nuclear isolation, was published on <strong>STAR Protocols</strong> in 2024 (<strong><a href="https://doi.org/10.1016/j.xpro.2024.103049">LINK</a></strong>):
 <img src="https://haikuoli.github.io/files/publications/star_2024.jpg" alt="Protocol Page">
 <p align="center">_________________________________________________________________
 </p>
