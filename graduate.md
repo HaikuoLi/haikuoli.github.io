@@ -24,7 +24,7 @@ My graduate research focuses on investigating molecular mechanisms underlying ki
 Our work studying mouse models of kidney fibrosis was published on <strong>Cell Metabolism</strong> in 2022 (<strong><a href="https://doi.org/10.1016/j.cmet.2022.09.026">LINK</a></strong>), where we discovered novel injury states of renal proximal tubular cells and defined how lipid metabolism was dysregulated over the time course of disease progression. PLIN2 was identified as a marker of intracellular lipid droplets during kidney injury:
 <img src="https://haikuoli.github.io/files/CM_page.jpg" alt="Project workflow">
 This work was highlighted by NIH NIDDK in the 2024 Annual Report (<strong><a href="https://www.niddk.nih.gov/about-niddk/strategic-plans-reports/niddk-recent-advances-emerging-opportunities">LINK</a></strong>). The single-cell analysis of proximal tubule injury was selected as the only one scientific illustration in the chapter!</p>
-<img src="https://haikuoli.github.io/files/publications/NIDDK_report.jpg" alt="Project workflow"></p>
+<img src="https://haikuoli.github.io/files/publications/NIDDK_report.jpg" alt="Project workflow"><br>
 <p align="center">_________________________________________________________________
 </p>
 
