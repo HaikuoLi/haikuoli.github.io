@@ -36,7 +36,7 @@ Our work studying human kidney anatomy was published on <strong>Cell Metabolism<
 
 <br>
 Our work studying the epigenomic profiles of the human kidney was published on <strong>Scientific Data</strong> in 2024 (<strong><a href="https://doi.org/10.1038/s41597-024-03648-8">LINK</a></strong>):
-<img src="https://haikuoli.github.io/files/sci_data_2024.jpg" alt="Protocol Page">
+<img src="https://haikuoli.github.io/files/publications/sci_data_2024.jpg" alt="Mansucript Page">
 <p align="center">_________________________________________________________________
 </p>
 
