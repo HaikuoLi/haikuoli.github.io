@@ -35,6 +35,12 @@ Our work studying human kidney anatomy was published on <strong>Cell Metabolism<
 </p>
 
 <br>
+Our work studying the epigenomic profiles of the human kidney was published on <strong>Scientific Data</strong> in 2024 (<strong><a href="https://doi.org/10.1038/s41597-024-03648-8">LINK</a></strong>):
+<img src="https://haikuoli.github.io/files/sci_data_2024.jpg" alt="Protocol Page">
+<p align="center">_________________________________________________________________
+</p>
+
+<br>
 Our optimized sci-RNA-seq3 library generation method with improved library quality on mouse kidney tissues was published on <strong>STAR Protocols</strong> in 2022 (<strong><a href="https://doi.org/10.1016/j.xpro.2022.101904">LINK</a></strong>):
 <img src="https://haikuoli.github.io/files/STAR_protocol_page.jpg" alt="Protocol Page">
 <p align="center">_________________________________________________________________
