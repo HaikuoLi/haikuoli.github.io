@@ -8,7 +8,7 @@ permalink: /about/
   
 <strong>Contact Information</strong><br>
 Email:<br>
-haikuo.li@wustl.edu; lihaikuo@alumni.sjtu.edu.cn<br>
+haikuolibio@gmail.com<br>
 Address:<br>
 Campus Box 8226, Washington University School of Medicine, Saint Louis, MO<br>
 WeChat/QQ:
@@ -16,7 +16,7 @@ WeChat/QQ:
 <br>
 
 <strong>My Background</strong><br>
-  My name is Haikuo Li (李海廓). I was born in Linyi (hometown of Zhuge Liang and Wang Xizhi), Shandong Province, China in 1997 and lived there before my undergraduate life.<br><br>
+  My name is Haikuo Li (李海廓). I was born in Linyi, Shandong Province, China in 1997 and lived there before my undergraduate life.<br><br>
   
   In high school, I was most interested in mathematics and won the Bronze Medal in 2014 Chinese Mathematics Olympics. At that point, I learned that biology had entered a big data era and required multidisciplinary approaches such as mathematical modelling and statistics to solve cutting-edge genomic problems. Therefore, I chose bioscience as my undergraduate major at Shanghai Jiao Tong University (SJTU). At SJTU, I was mainly trained in biochemistry and systems biology and led a first-author project in which we identified biomarkers for lymphoma patients with mass spectrometry-based proteomics. In my 4th year, I worked as a visiting undergraduate researcher at Yale University Department of Immunobiology to broaden my knowledge in immunology. I was awarded Shanghai Excellent Graduate in Bachelor Degree in 2019.<br><br>
   
