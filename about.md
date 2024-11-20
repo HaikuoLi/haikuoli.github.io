@@ -28,8 +28,7 @@ Address:<br>
 
 
 <strong>My Hobby</strong><br>
-I love reading and writing Chinese prose/poetry in my spare time. WeChat Official Account/Blog: Haikuo_Sky1997 (北乔木).<br>
-I enjoy cooking and I am a soccer fan of Shandong Luneng FC.
+I love reading and writing Chinese prose/poetry in my spare time. I enjoy cooking and I am a soccer fan of Shandong Taishan FC.
 <br><br><br>
   
 <strong>Gallery</strong><br>
